@@ -1,7 +1,8 @@
 name: 'Jekyll build-only'
 description: 'Simple Jekyll build-only action.'
-icon: 'bold'
-color: 'blue'
+branding:
+  icon: 'bold'
+  color: 'blue'
 runs:
   using: 'docker'
   image: 'Dockerfile'
