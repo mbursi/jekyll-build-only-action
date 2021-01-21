@@ -1,4 +1,4 @@
-name: 'Jekyll build'
+name: 'Jekyll build-only'
 description: 'Simple Jekyll build action.'
 runs:
   using: 'docker'
